@@ -1,0 +1,12 @@
+{
+  "name":"lear",
+  "version":"0.0.1",
+  "dependencies":{
+   "angularjs":"*",
+   "angular-ui-router": "*",
+   "angular-bootstrap": "~0.12.0",
+    "bootstrap-social":"*",
+    "angular-mocks": "*",
+    "jasmine": "~2.0.1"
+  }
+}
